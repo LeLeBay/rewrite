@@ -1,7 +1,7 @@
 #!name=Google重定向
 #!desc=将www.google.cn定向至www.google.com
 #!author=林泽
-#!homepage=https://raw.githubusercontent.com/LeLeBay
+#!homepage=https://github.com/LeLeBay
 #!icon=https://raw.githubusercontent.com/hualaX/ios/main/icon/anni.png
 [Rewrite]
 ^https?:\/\/(www.)?(g|google)\.cn https://www.google.com 302
