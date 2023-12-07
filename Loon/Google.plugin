@@ -3,7 +3,7 @@
 #!openUrl = 
 #!author = 林泽
 #!homepage = https://raw.githubusercontent.com/LeLeBay/rewrite/main/Loon/Google.plugin
-#!icon = https://gitlab.com/lodepuly/iconlibrary/-/raw/main/App_icon/120px/Google.png
+#!icon = https://raw.githubusercontent.com/LeLeBay/rewrite/main/Loon/Google.plugin
 #!date = 2023-11-14 14:41:32
 
 [Rewrite]
