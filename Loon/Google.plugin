@@ -3,6 +3,7 @@
 #!author=林泽
 #!homepage=https://github.com/LeLeBay
 #!icon=https://raw.githubusercontent.com/hualaX/ios/main/icon/anni.png
+
 [Rewrite]
 # ^https?:\/\/(www.)?(g|google)\.(cn|com\.hk) 302 https://www.google.com
 ^https?:\/\/(www.)?(g|google)\.cn 302 https://www.google.com
