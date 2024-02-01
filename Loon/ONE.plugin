@@ -1,6 +1,10 @@
-软件名字：ONE一个
-插件作者：林泽
-官网地址：https://onesp.app/
+
+#!name = ONE去开屏
+#!desc = 软件下载地址：https://onesp.app/
+#!openUrl = 
+#!author = 林泽
+#!homepage = https://github.com/LeLeBay
+#!date = 2024-2-1 11:45:30
 #随缘维护
 [Rewrite]
 ^https?:\/\/api\.\w+\.com\/v2.5\/(ad\/space|panda\/popup) reject
