@@ -1,6 +1,6 @@
 #GitHub 加速
 #自动使用 mirror.ghproxy.com 加速
 [rewrite_local]
-^(https?:\/\/(raw\.githubusercontent\.com|gist\.githubusercontent\.com|github\.com\/[^/]+\/[^/]+(\/releases\/download|\/archive))\/.+?)$ url 302 https://mirror.ghproxy.com/$1
+^(https?:\/\/(raw\.githubusercontent\.com|gist\.githubusercontent\.com|github\.com\/[^/]+\/[^/]+(\/releases\/download|\/archive))\/.+?)$ url 302 https://ghfast.top/$1
 [mitm]
 hostname = raw.githubusercontent.com, gist.githubusercontent.com, github.com
